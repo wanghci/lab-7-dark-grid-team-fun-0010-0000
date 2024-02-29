@@ -1,3 +1,28 @@
+.main-head {
+    background-color: red;
+    border: 5px dashed #450085;
+  }
+  .content {
+    background-color: orange;
+    border: 5px dashed #333333;
+  }
+  .main-nav {
+    background-color: rgb(104, 104, 32);
+    border: 5px dashed #009698;
+  }
+  .side {
+    background-color: green;
+    border: 5px dashed #8EE4D7 ;
+  }
+  .ad {
+    background-color: #634f18;
+    border: 5px dashed blue;
+  }
+  .main-footer {
+    background-color: #4f4834;
+    border: 5px dashed #b599ce;
+  }
+
 /* In `dark.css`, add a rule for a `dark` class
     * Inside, add nested rules to style your page to be dark themed
     * Follow the format of the `debug` rule in `debug.css`
@@ -55,3 +80,6 @@
         border: 5px dashed #6f3d9c;
       }
  }   
+
+
+    
