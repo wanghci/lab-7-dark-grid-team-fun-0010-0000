@@ -7,7 +7,7 @@
     * It's external, so we'll need to use the [`link` tag](https://www.w3schools.com/tags/tag_link.asp).
 1. Take a look at the `debug.css` file.
     * See how it has a [nested rule](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting) for the `debug` class?
-    * In the HTML file, add the `debug` class to the `body` tag. What happens?
+    * In the HTML file, add the `debug` class to the `body` tag. What happens? 
         * All the rules inside that nested rule now applies!
 1. In `dark.css`, add a rule for a `dark` class
     * Inside, add nested rules to style your page to be dark themed

@@ -8,7 +8,7 @@
     border: 5px dashed #333333;
   }
   .main-nav {
-    background-color: yellow;
+    background-color: rgb(104, 104, 32);
     border: 5px dashed #009698;
   }
   .side {
@@ -16,11 +16,11 @@
     border: 5px dashed #8EE4D7 ;
   }
   .ad {
-    background-color: #F4EFE1;
+    background-color: #634f18;
     border: 5px dashed blue;
   }
   .main-footer {
-    background-color: #cbb677;
+    background-color: #4f4834;
     border: 5px dashed #b599ce;
   }
 }
