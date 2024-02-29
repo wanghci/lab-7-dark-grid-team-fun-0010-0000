@@ -2,7 +2,7 @@
     * Inside, add nested rules to style your page to be dark themed
     * Follow the format of the `debug` rule in `debug.css`
     * Try changing the class of the `body` to `dark` and test it! (Remove the class once done.) */
-@media (){
+@media (prefers-color-scheme: dark){
  .dark{
     .main-head {
         background-color: rgb(76, 6, 6);
