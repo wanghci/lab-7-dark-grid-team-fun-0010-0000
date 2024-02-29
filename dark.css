@@ -3,6 +3,32 @@
     * Follow the format of the `debug` rule in `debug.css`
     * Try changing the class of the `body` to `dark` and test it! (Remove the class once done.) */
 @media (prefers-color-scheme: dark){
+    .main-head {
+        background-color: rgb(76, 6, 6);
+        border: 5px dashed #260b3f;
+      }
+      .content {
+        background-color: rgb(126, 93, 33);
+        border: 5px dashed #333333;
+      }
+      .main-nav {
+        background-color: rgb(105, 105, 9);
+        border: 5px dashed #0e6061;
+      }
+      .side {
+        background-color: green;
+        border: 5px dashed #2b7368 ;
+      }
+      .ad {
+        background-color: #b1923f;
+        border: 5px dashed rgb(13, 13, 132);
+      }
+      .main-footer {
+        background-color: #8a6f1e;
+        border: 5px dashed #6f3d9c;
+      }
+ }   
+
  .dark{
     .main-head {
         background-color: rgb(76, 6, 6);
@@ -21,12 +47,11 @@
         border: 5px dashed #2b7368 ;
       }
       .ad {
-        background-color: #F4EFE1;
+        background-color: #b1923f;
         border: 5px dashed rgb(13, 13, 132);
       }
       .main-footer {
         background-color: #8a6f1e;
         border: 5px dashed #6f3d9c;
       }
-    }
  }   
