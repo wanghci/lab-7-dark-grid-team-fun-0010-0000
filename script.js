@@ -1,7 +1,7 @@
 
 document.getElementById("darkbutton").addEventListener("click", go_dark());
 document.getElementById("lightbutton").addEventListener("click", go_light());
-document.getElementById("defaultbutton").addEventListener("click", go_OS()); //computer default
+document.getElementById("defbutton").addEventListener("click", go_OS()); //computer default
 
 function go_dark() {
     document.body.classList.remove("debug");
